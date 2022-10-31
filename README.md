@@ -7,11 +7,11 @@
 
 root: 7
 root elemanı 7 olduğu için 7'den küçük olanlar ağacın sol tarafına büyük olanlar ise sağ tarafına yerleştirilir. Diğer elemanlar da benzer şekilde karşılaştırıldığı elemanlarca ağacın sağında ve solunda yer alır.
-             7
-        5          8
-    1       6          9
- 0     3
-    2     4
+-             7
+-        5          8
+-    1       6          9
+- 0     3
+-    2     4
     
     -5, 7'den küçük olduğu için solda 8 büyük olduğu için sağda yer aldı.
     -1, 7'den ve 5'den küçük olduğu için her ikisinin solunda yer aldı.
